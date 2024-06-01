@@ -11,7 +11,7 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+## Minhas Redes sociais para contato:
 
 <div> 
   </a>
@@ -26,8 +26,4 @@
 [![Spotify](    https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31f46zy3bbnkbqbdn2azyvvd5ram?si=495cb5e5d3b94504)
 <br/>
 
- ### Contate-me
-matheuzsg1@gmail.com
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheuzsg1@gmail.com)</br>
  
