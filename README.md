@@ -1,5 +1,5 @@
 ## Olá! Me chamo Matheus Souza
-- 🏁 Atualmente cursando ADS ( 3° Semestre )
+- 🏁 Atualmente cursando ADS ( 4° Semestre )
 - ❤️‍🔥 Interesse em trabalhar com Front-end
   ## Linguagens familiares:
   
